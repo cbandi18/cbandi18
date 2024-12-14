@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chaitanya Kumar Bandi (@cbandi18)
+# 👋 Hi, I’m Chaitanya Bandi (@cbandi18)
   😄 Pronouns: He/Him
 
 - 👀 I’m experienced in Machine Learning, Generative AI, DevOps, and exploring cutting-edge AI solutions for real-world challenges.
