@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Chaitanya Bandi (@cbandi18)
   😄 Pronouns: He/Him
 
-- 👀 I’m experienced in Python, Data Analysis, Visualization, Machine Learning, Generative AI, and exploring cutting-edge AI solutions for real-world challenges.
+- 👀 I’m experienced in Python, Data Analysis, Visualization, Machine Learning, Generative AI, Data Science and exploring cutting-edge AI solutions for real-world challenges.
 - 🌱 I have completed my Master’s in Information Technology and Management at Valparaiso University, Indiana, USA (December 2024).
-- 💼 With 5 years of professional experience, I’ve developed end-to-end solutions across industries such as healthcare, Finance, Education and Digital Marketing & Entertainment.
+- 💼 With over 5 years of professional experience, I’ve developed end-to-end solutions across industries such as healthcare, Finance, Advertisement, Education and Digital Marketing & Entertainment.
 - 💞️ I’m looking to collaborate on AI-driven projects, including NLP, LLMs, and image processing, as well as DevOps optimization strategies.
 - 📫 How to reach me:  
-  - Email: [chaitanyareddy.bandi@gmail.com](mailto:chaitanyareddy.bandi@gmail.com)  
+  - Email: [chaitanyareddy.bandi@gmail.com](mailto:chaitanyareddy.bandi@gmail.com)
   - LinkedIn: [linkedin.com/in/chaitanya-bandi-31663a245](https://www.linkedin.com/in/cb183)
   - HitHub: https://github.com/cbandi18/
   - Phone: +1 (862) 389-7945
