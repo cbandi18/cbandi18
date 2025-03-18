@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chaitanya Bandi (@cbandi18)
   😄 Pronouns: He/Him
 
-- 👀 I’m experienced in Python, Data Analysis, Visualization, Machine Learning, NLP, Generative AI, Data Science. Exploring cutting-edge AI solutions for real-world challenges.
+- 👀 I’m experienced in Python, Data Analysis, Visualization, Machine Learning, NLP, Generative AI and Data Science. Exploring cutting-edge AI solutions for real-world challenges.
 - 🌱 I have completed my Master’s in Information Technology and Management at Valparaiso University, IN, USA (December 2024).
 - 💼 With over 5 years of professional experience, I’ve developed end-to-end solutions across industries such as healthcare, Finance, Advertisement, Education and Digital   
       Marketing & Entertainment.
